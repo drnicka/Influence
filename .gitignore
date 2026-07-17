@@ -1,0 +1,21 @@
+node_modules/
+.env
+.DS_Store
+*.log
+
+# Build output
+client/dist/
+
+# Local data (generated, private)
+data/ballots/
+data/history/
+data/rounds/
+data/members/
+data/rooms/
+data/router/
+data/router-relay/
+data/handoffs/
+data/room-federation/
+client/node_modules
+influence/influence.json
+.claude/
